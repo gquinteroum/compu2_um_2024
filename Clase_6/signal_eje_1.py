@@ -9,4 +9,6 @@ def handler(s, f):
 # signal.signal(signal.SIGINT, signal.SIG_IGN)
 signal.signal(signal.SIGINT, handler)
 
+print(os.getpid())
+
 input()
