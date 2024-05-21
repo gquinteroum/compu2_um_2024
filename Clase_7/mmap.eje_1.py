@@ -1,7 +1,7 @@
 """
 Ejemplo que muestra el uso de mmap para utilizarlo desde un único proceso para tener un archivo en memoria.
 Correr en modo interactivo. En este archivo se dan comandos para jugar en la consola
-
+con el comando od se puede ver el archivo en bajo nivel. -c para que muestre los caracteres
 """
 
 import mmap
@@ -18,7 +18,5 @@ area.write(b'nuevo')
 area.tell()
 area.seek(0)
 fd
-"""
-con el comando od se puede ver el archivo en bajo nivel. -c para que muestre los caracteres
-"""
+
 
