@@ -1,6 +1,6 @@
-Alma Estefanía Quinteros Quiroga (Lock)
+- Alma Estefanía Quinteros Quiroga (Lock)
 
-Camila y  Diego (RLock)
+- Camila y  Diego (RLock)
 
 Dino y Juan (Semaphore)
 
@@ -12,7 +12,7 @@ María (Event)
 
 Máximo (Barrier)
 
-Reynier Queue
+Reynier (Queue)
 
 Tadeo (Value)
 
