@@ -1,0 +1,19 @@
+Alma Estefanía Quinteros Quiroga (Lock)
+
+Camila y  Diego (RLock)
+
+Dino y Juan (Semaphore)
+
+Leandro y Lucas (BoundedSemaphore)
+
+Luciano y Manuel (Condition)
+
+María (Event)
+
+Máximo (Barrier)
+
+Reynier Queue
+
+Tadeo (Value)
+
+Vicente Array)
