@@ -2,18 +2,18 @@
 
 - Camila y  Diego (RLock)
 
-Dino y Juan (Semaphore)
+- Dino y Juan (Semaphore)
 
-Leandro y Lucas (BoundedSemaphore)
+- Leandro y Lucas (BoundedSemaphore)
 
-Luciano y Manuel (Condition)
+- Luciano y Manuel (Condition)
 
-María (Event)
+- María (Event)
 
-Máximo (Barrier)
+- Máximo (Barrier)
 
-Reynier (Queue)
+- Reynier (Queue)
 
-Tadeo (Value)
+- Tadeo (Value)
 
-Vicente Array)
+- Vicente Array)
