@@ -1,0 +1,33 @@
+version: '3.9'
+
+services:
+  sleep1:
+      build:
+        context: .
+        dockerfile: Dockerfile
+      container_name: sleep1
+      volumes:
+        - shared-volume:/data
+      networks:
+        - custom-network
+      ports:
+        - "8081:8081"
+
+  sleep2:
+    build:
+        context: .
+        dockerfile: Dockerfile
+    container_name: sleep2
+    volumes:
+      - shared-volume:/data
+    networks:
+      - custom-network
+    ports:
+      - "8082:8082"
+
+volumes:
+  shared-volume:
+
+networks:
+  custom-network:
+    driver: bridge
